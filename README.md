@@ -3,9 +3,9 @@
   Hi, My name is Zaynab Mohamed
 </h1>
 
-### 📍 DevOps Engineer:
+### 👩‍💻 DevOps Engineer:
 
-- 🇪🇬 I'm based in Egypt  
+- 📍 I'm based in Egypt  
 - 📧 You can contact me at: **zeinabmohammed817@gmail.com**  
 - 🏢 I'm currently working at **_VOIS**  
 - 💡 Fun fact: I love building logic and solving problems  
@@ -22,8 +22,8 @@
 
 ### 📜 Certifications
 
-- 🧠 AWS Cloud Practitioner *(Pending)*  
-- 🖥️ RHCSA  
+-  AWS Cloud Practitioner *(Pending)*  
+-  RHCSA  
 
 ---
 
