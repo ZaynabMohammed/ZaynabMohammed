@@ -53,5 +53,5 @@
 ###  Find Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zeinab-azaz/)
 
-<img src="https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark" />
+![GitHub Snake dark](https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg)
 
