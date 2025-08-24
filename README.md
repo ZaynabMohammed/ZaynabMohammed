@@ -10,7 +10,7 @@
 
 ### Education:
 
-- **Bachelor’s Degree in Electrical, Electronics and Communication Engineering ** – Cairo University
+- **Bachelor’s Degree in Electrical, Electronics and Communication Engineering** – Cairo University
 - **System Administration** – ITI *(4-month program)*
 - **DevOps** – DEPI *(6-month program)*
 
@@ -30,6 +30,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-FE5000?style=for-the-badge&logo=argo&logoColor=white)
+
 
 ###  Stats:
 [![Zaynab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaynabMohammed&show_icons=true&theme=dark)](https://github.com/ZaynabMohammed)
@@ -48,7 +51,7 @@
 
 
 ###  Find Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zeinab-mohamed/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zeinab-azaz/)
 
+<img src="https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark" />
 
-![GitHub Snake dark](https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg)
