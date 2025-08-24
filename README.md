@@ -7,8 +7,7 @@
 
 - 📍 I'm based in Egypt  
 - 📧 You can contact me at: **zeinabmohammed817@gmail.com**  
-- 🏢 I'm currently working at **_VOIS**  
-- 💡 Fun fact: I love building logic and solving problems  
+- 🏢 I'm currently working at **_VOIS**   
 
 ---
 
@@ -63,7 +62,9 @@
 
 ---
 
-### 🐍 GitHub Snake Contribution Animation
+### 🌐 Find Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-azaz/)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark animation"/>
@@ -71,6 +72,4 @@
 
 ---
 
-### 🌐 Find Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-azaz/)
