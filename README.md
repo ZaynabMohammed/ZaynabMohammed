@@ -3,13 +3,7 @@
   Hi, My name is Zaynab Mohamed
 </h1>
 
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30px" /> DevOps Engineer
-</h2>
-
----
-
-### 📍 About Me:
+### 📍 DevOps Engineer:
 
 - 🇪🇬 I'm based in Egypt  
 - 📧 You can contact me at: **zeinabmohammed817@gmail.com**  
@@ -72,7 +66,7 @@
 ### 🐍 GitHub Snake Contribution Animation
 
 <div align="center">
-  <img src="https://github.com/ZaynabMohammed/ZaynabMohammed/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark animation" />
+  <img src="https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark animation"/>
 </div>
 
 ---
