@@ -72,7 +72,7 @@
 ### 🐍 GitHub Snake Contribution Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark animation" />
+  <img src="https://github.com/ZaynabMohammed/ZaynabMohammed/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark animation" />
 </div>
 
 ---
